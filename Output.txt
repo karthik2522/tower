@@ -1,0 +1,16 @@
+karthik@karthik-HP-Laptop-15q-bu0xx:~$ go run tower.go
+Move disk from rod 1 to rod 3
+Move disk from rod 1 to rod 2
+Move disk from rod 3 to rod 2
+Move disk from rod 1 to rod 3
+Move disk from rod 2 to rod 1
+Move disk from rod 2 to rod 3
+Move disk from rod 1 to rod 3
+Move disk from rod 1 to rod 2
+Move disk from rod 3 to rod 2
+Move disk from rod 3 to rod 1
+Move disk from rod 2 to rod 1
+Move disk from rod 3 to rod 2
+Move disk from rod 1 to rod 3
+Move disk from rod 1 to rod 2
+Move disk from rod 3 to rod 2
